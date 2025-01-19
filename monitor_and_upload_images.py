@@ -3,8 +3,8 @@ import time
 import shutil
 import subprocess
 
-WATCH_FOLDER = "C:\WATCH"
-UPLOADED_FOLDER = "C:\UPLOADS"
+WATCH_FOLDER = r"C:\WATCH"
+UPLOADED_FOLDER = r"C:\UPLOADS"
 
 UPLOAD_URL = "https://projects.benax.rw/f/o/r/e/a/c/h/p/r/o/j/e/c/t/s/4e8d42b606f70fa9d39741a93ed0356c/iot_testing_202501/upload.php"
 
